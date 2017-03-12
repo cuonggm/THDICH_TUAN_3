@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1234867804 source:e:\20162\th dich\811\tuan3\cuong_giap_minh_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"reader.h"
+	"parser.h"
+
+1234867804 e:\20162\th dich\811\tuan3\cuong_giap_minh_1\reader.h
+
+1234867804 e:\20162\th dich\811\tuan3\cuong_giap_minh_1\parser.h
+	"token.h"
+
+1234867804 e:\20162\th dich\811\tuan3\cuong_giap_minh_1\token.h
+
+1234867804 source:e:\20162\th dich\811\tuan3\cuong_giap_minh_1\charcode.c
+	"charcode.h"
+
+1234867804 e:\20162\th dich\811\tuan3\cuong_giap_minh_1\charcode.h
+
+1271238488 source:e:\20162\th dich\811\tuan3\cuong_giap_minh_1\error.c
+	<stdio.h>
+	<stdlib.h>
+	"error.h"
+
+1271238390 e:\20162\th dich\811\tuan3\cuong_giap_minh_1\error.h
+	"token.h"
+
+1489052845 source:e:\20162\th dich\811\tuan3\cuong_giap_minh_1\parser.c
+	<stdlib.h>
+	"reader.h"
+	"scanner.h"
+	"parser.h"
+	"error.h"
+
+1234867804 e:\20162\th dich\811\tuan3\cuong_giap_minh_1\scanner.h
+	"token.h"
+
+1234867804 source:e:\20162\th dich\811\tuan3\cuong_giap_minh_1\reader.c
+	<stdio.h>
+	"reader.h"
+
+1234867804 source:e:\20162\th dich\811\tuan3\cuong_giap_minh_1\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	"reader.h"
+	"charcode.h"
+	"token.h"
+	"error.h"
+	"scanner.h"
+
+1234867804 source:e:\20162\th dich\811\tuan3\cuong_giap_minh_1\token.c
+	<stdlib.h>
+	<ctype.h>
+	"token.h"
+
